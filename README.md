@@ -58,7 +58,7 @@ A Gradient Boosted Decision Tree (LGBMRanker) evaluates the ~50 Stage 1 candidat
 
 
 
-###### **Key Engineering Challenges**
+#### **Key Engineering Challenges**
 
 
 
@@ -74,7 +74,7 @@ A Gradient Boosted Decision Tree (LGBMRanker) evaluates the ~50 Stage 1 candidat
 
 
 
-###### **Model Interpretability \& Business Insights**
+#### **Model Interpretability \& Business Insights**
 
 
 
@@ -98,7 +98,7 @@ A core focus of this project was validating the model's logic using SHAP and fea
 
 
 
-###### **Tech Stack**
+#### **Tech Stack**
 
 
 
