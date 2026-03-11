@@ -1,0 +1,19 @@
+# --- Data ---
+data/*.csv
+data/*.zip
+Recommendation_Submission.csv
+
+# --- Jupyter & Notebooks ---
+.ipynb_checkpoints/
+*/.ipynb_checkpoints/*
+
+# --- Python ---
+__pycache__/
+*.py[cod]
+*$py.class
+
+# --- System & IDE ---
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
