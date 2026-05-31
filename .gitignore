@@ -17,3 +17,6 @@ __pycache__/
 Thumbs.db
 .vscode/
 .idea/
+
+# ignore the ipynb file in favor of the markdown file
+H&M Recommendations.ipynb

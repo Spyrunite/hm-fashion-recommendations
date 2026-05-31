@@ -1,6 +1,6 @@
 # H\&M Personalized Fashion Recommendations
 
-
+👉 **[Click here to view the complete Project Case Study with all code and visual plots](H%26M%20Recommendations.md)**
 
 #### **Project Overview**
 
